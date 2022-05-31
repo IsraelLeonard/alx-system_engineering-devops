@@ -1,1 +1,1 @@
-My first script readme
+ALX bash project while executing scripts
